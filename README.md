@@ -25,9 +25,9 @@ This includes 4 different background styles which all move and some rotate.
 Them being:
 
 	- Cool clouds(copied from shadertoy) TYPE 1
- 	- Cool Squares											 TYPE 2
-	- Even Cooler Squares?!?!?					 TYPE 3
- 	- MORE SQUARES											 TYPE 4
+ 	- Cool Squares			     TYPE 2
+	- Even Cooler Squares?!?!?           TYPE 3
+ 	- MORE SQUARES	                     TYPE 4
 
 ![image](https://github.com/user-attachments/assets/95190955-ff93-4d9d-b13a-6d3e3d55f063)
 ![image](https://github.com/user-attachments/assets/191e6806-3b48-46d9-a853-3076c6ce9854)
