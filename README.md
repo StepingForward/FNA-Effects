@@ -29,10 +29,9 @@ Them being:
 	- Even Cooler Squares?!?!?           TYPE 3
  	- MORE SQUARES	                     TYPE 4
 
-![image](https://github.com/user-attachments/assets/95190955-ff93-4d9d-b13a-6d3e3d55f063)
-![image](https://github.com/user-attachments/assets/191e6806-3b48-46d9-a853-3076c6ce9854)
-![image](https://github.com/user-attachments/assets/8500e6f2-e81e-466d-8746-0cc27b1debef)
-![image](https://github.com/user-attachments/assets/b9f6bacf-962b-4ba8-971d-72a84b5b3954)
+
+
+https://github.com/user-attachments/assets/4645841c-d25f-45d0-97d3-df440a85ce08
 
 ## Light.fx
 A very simple implementation of lights, nothing more to say.
